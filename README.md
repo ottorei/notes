@@ -6,6 +6,7 @@ Templating engine => ejs
 LDAP => ldapjs
 Mongodb => mongoose
 HTTP-client => axios
+HTTP-server => express
 JWT => jsonwebtoken
 
 Linting
